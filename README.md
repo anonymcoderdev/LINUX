@@ -1,2 +1,1 @@
-# LINUX
-LINUX
+Linux üçün həllər
